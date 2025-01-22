@@ -368,11 +368,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-i-start-a-ineternship-in-information-security-lab-sogang-university",
-          title: 'I start a Ineternship in Information Security Lab @ Sogang University',
+    },{id: "news-i-have-started-an-internship-in-information-security-lab-sogang-university",
+          title: 'I have started an internship in Information Security Lab @ Sogang University',
           description: "",
-          section: "News",},{id: "news-i-start-a-ineternship-in-humanoid-generalization-lab-kaist-ai",
-          title: 'I start a Ineternship in Humanoid Generalization Lab @ KAIST AI',
+          section: "News",},{id: "news-i-have-started-an-internship-in-humanoid-generalization-lab-kaist-ai",
+          title: 'I have started an internship in Humanoid Generalization Lab @ KAIST AI',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
