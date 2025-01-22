@@ -18,4 +18,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi!, I am an undergraduate student at [Sogang University](https://sogang.ac.kr)
 
-My major is Computer Science and Engineering, currently i'm interseted about Reinforcment learning and humanoid robotics
+My major is Computer Science and Engineering, currently i'm interseted in Reinforcment learning and humanoid robotics
