@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start a Ineternship in [Information Security Lab @ Sogang University](https://islab-sogang.github.io/)
+I have started an internship in [Information Security Lab @ Sogang University](https://islab-sogang.github.io/)

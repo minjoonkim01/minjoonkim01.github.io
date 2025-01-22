@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start a Ineternship in [Humanoid Generalization Lab @ KAIST AI](https://www.hugelab.org/)
+I have started an internship in [Humanoid Generalization Lab @ KAIST AI](https://www.hugelab.org/)
